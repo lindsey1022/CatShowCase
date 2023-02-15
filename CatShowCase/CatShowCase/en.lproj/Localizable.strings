@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  CatShowCase
+
+  Created by XIN LIU on 2/15/23.
+  
+*/
+
+"Navigation_Title_Text" = "Fun Cat Fact";
+"Alert_Title_Text" = "Something went wrong";
+"OK_Button_Text" = "Okay";
+"Service_Failed_Message" = "Failed loading new cat information";
